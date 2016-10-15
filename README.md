@@ -43,3 +43,16 @@ sass-rails gem: http://sass-lang.com/guide
 
 Active Record: http://guides.rubyonrails.org/active_record_validations.html
 
+Useful gems:
+
+Authentication: https://www.digitalocean.com/community/tutorials/how-to-configure-devise-and-omniauth-for-your-rails-application
+
+Using Google Maps: https://github.com/apneadiving/Google-Maps-for-Rails
+
+Pagination: https://github.com/mislav/will_paginate
+
+Stripe: https://github.com/stripe/stripe-ruby
+
+More useful gems exist, simply google what you want to do!
+
+Many thanks to Salman Ansari and to iXperience for teaching me Ruby on Rails.
