@@ -3,7 +3,10 @@ a guide to learning ruby on rails
 
 This repository is meant to be a beginner's guide to learning how the internet works and how to make rails apps. Feel free to clone it, fork it, do whatever you want.
 
+To use Rails, you "techinically" need to know Ruby. A great resource is learn X in Y minutes: https://learnxinyminutes.com/docs/ruby/
+
 Start by installing Ruby and Rails: http://installrails.com/
+Mac Users-start by installing homebrew. You should all know terminal by now, and Xcode isn't necessary.
 Note that Rails is designed to be "convention over configuration." Everything is designed to be the same, I can't set up my Rails server different than yours, which makes it easier to understand anyone else's rails app.
 
 The internet works through the Hyper Text Transfer Protocol, http. https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol
