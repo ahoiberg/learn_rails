@@ -45,6 +45,8 @@ Active Record: http://guides.rubyonrails.org/active_record_validations.html
 
 Useful gems:
 
+To install a gem, simply type gem install my_gem into command line
+
 Authentication: https://www.digitalocean.com/community/tutorials/how-to-configure-devise-and-omniauth-for-your-rails-application
 
 Using Google Maps: https://github.com/apneadiving/Google-Maps-for-Rails
